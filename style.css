@@ -45,3 +45,9 @@
     background-color: #222;
     color: #ccc;
 }
+
+@media screen and (max-width:920px) {
+    .tab-container{
+        width: 95%;
+    }
+}
